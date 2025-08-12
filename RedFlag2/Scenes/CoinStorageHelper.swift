@@ -1,10 +1,3 @@
-//
-//  CoinStorageHelper.swift
-//  SANAM
-//
-//  Created by Afrah Alharbi on 15/03/2025.
-//
-
 import Foundation
 
 class CoinStorageHelper {
